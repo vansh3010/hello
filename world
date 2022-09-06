@@ -1,0 +1,25 @@
+# include<iostream>
+
+using namespace std;
+
+int main(){
+   // int a=4;
+    //int b=7; 
+  //  char letter='U';
+    //float pi=3.14;
+   // bool op='true';
+    
+     //cout<<"the value  of love is "<<a<<"  "<<b<<"  "<<letter<<"  "<<pi<<"  "<<op;
+int num1, num2;
+
+cout<<"enter the value of num1:\n;"
+cin>>num1;
+
+cout<<"enter the value of num2:\n;"
+cin>>num2;
+
+    cout<<"the sun is "<<num1+num2;
+    
+    return 0;
+
+}
